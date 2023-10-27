@@ -14,7 +14,7 @@ website:
 format:
   html:
     theme: 
-      - cosmo
+      - dark
       - "assets/theme.scss"
     header-includes: |
       <link rel="preconnect" href="https://fonts.googleapis.com">
