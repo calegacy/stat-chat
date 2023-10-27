@@ -1,30 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Iggy",
-    "section": "",
-    "text": "Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My full name is Ignatius Fauci Fortenberry, III. Mostly I go by Iggy (except when I am in trouble). I am a 2-year old schnauzer/black lab mix. I live with my sister (Sadie) and my brother (Hank). I love to eat, sleep, and walk. My favorite people are: anyone with treats, the postal delivery person, the Amazon delivery person, the UPS delivery person, and Goldy. In my spare time I enjoy pulling the stuffing out of toys and dribbling water all over the house."
+    "text": "StatChat is an informal but informative get-together of local statistics educators."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
+    "objectID": "about.html#current-organizers",
+    "href": "about.html#current-organizers",
     "title": "About",
-    "section": "Education",
-    "text": "Education\nPuppy Kindergarten Level 2, Pet Smart | Richfield, MN Certificate in Walking | Oct. 2021\nPuppy Kindergarten Level 1, Pet Smart | Richfield, MN Certificate in Listening | Sept. 2021"
+    "section": "Current Organizers",
+    "text": "Current Organizers\nStatChat is currently being organized by Alicia Johnson (Macalester College), Laura Le (University of Minnesota), and Andrew Zieffler (University of Minnesota).\n\n\n  \n\nAlicia Johnson (left), Laura Le (center), and Andrew Zieffler (right)"
   },
   {
-    "objectID": "about.html#references",
-    "href": "about.html#references",
+    "objectID": "about.html#original-organizers",
+    "href": "about.html#original-organizers",
     "title": "About",
-    "section": "References",
-    "text": "References\nHank | Chief Barking Scientist | Three Bark Manor\nSadie | Naptime Engineer | Three Bark Manor"
+    "section": "Original Organizers",
+    "text": "Original Organizers\nStatChat was originally conceived by Joan Garfield (University of Minnesota), Danny Kaplan (Macalester College), and Julie Legler (St. Olaf) circa 2005.\n\n\n  \n\nJoan Garfield (left), Danny Kaplan (center), and Julie Legler (right)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "StatChat",
+    "section": "",
+    "text": "Image credit: Are we ready for our predicted future? by grace mcdunnough (License: CC BY-NC-ND 2.0)"
+  },
+  {
+    "objectID": "index.html#october-18-2023-meeting",
+    "href": "index.html#october-18-2023-meeting",
+    "title": "StatChat",
+    "section": "October 18, 2023 Meeting",
+    "text": "October 18, 2023 Meeting\nLOCATION: University of St. Thomas, O’Shaghnessy Science Hall (OSS) 227\n\n6:00–6:30 Settle In & Eat\n6:30–7:45 Guest Speaker: Danny Kaplan (ret. from Macalaster) will discuss his work on rethinking and re-designing the introductory statistics course.\nAbstract: “Mere Renovation is Too Little Too Late: We Need to Rethink Our Undergraduate Curriculum from the Ground Up” is the title of a 2015 paper by George Cobb. Honoring George’s challenge, I have been rethinking and re-designing the introductory statistics course, replacing traditional foundations using modern materials and reconfiguring the living and working spaces to suit today’s applied statistical needs and projects. In the spirit of a “model house” used to demonstrate housing innovations, I’ll take you on a tour of my “model course,” whose materials are available free, open, and online. Among the features you’ll see: an accessible handling of causal reasoning, a unification of the course structure around modeling, a streamlined yet professional-quality computational platform, and an honest presentation of Null Hypothesis Testing that connects it to other, more current forms of statistical inference.\n\nDanny’s Notes\nLessons in Statistical Thinking Textbook\nDay-by-day class notes and activities from Spring 2023\n\n7:45–8:00: Discussion, wrap-up, and this season’s StatChat\n\nWe hope to see you there! If you plan to attend, please RSVP by signing up to bring food or beverage to share. And please spread the word among any colleagues that may be interested in the night’s topics.\n\nParking options:\nFree street parking is available around campus. Amelia McNemara (our StatChat host) recommends Summit Ave or Goodrich Ave west of Cretin. For example, enter 2214 Goodrich Ave into your GPS to get to the block of Goodrich she is suggesting. However, Summit Ave has free parking on the South side, North is residential and tow-away. Goodrich Ave is free on North side.\nPaid parking is available in the Anderson Parking Facility for $1.55/hour. Park your car, then pay at the automated kiosk (license plate number required). There will be many spaces available, and the garage is across the street from where we will meet.\nFinding the room:\nWe will be meeting in OSS, which is one of two connected science buildings at the corner of Summit and Cretin avenues. The building closest to the Anderson parking facility is OWS, the one closer to Summit is OSS. The two buildings (OWS and OSS) share the numbering, so there is no danger in getting to a wrong 226. Anything 250 and up will be OWS, below: OSS. If you are around rooms below 250, walk through the connecting hallway/skyway (noticeable because of all the windows) to the other building."
   }
 ]
