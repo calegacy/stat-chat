@@ -1,5 +1,5 @@
 ---
-title: "Past"
+title: "Past Events"
 editor: visual
 ---
 
@@ -50,12 +50,6 @@ This is an archive of information/links from past StatChat meetings.
 -   **6:30--7:45 Guest Speaker:** [David DeLiema](http://www.david-deliema.com/) from the Educational Psychology Department at the University of Minnesota will discuss some of his work on how students productively respond to moments of failure in the learning process.<br />
 
     *Bio:* David DeLiema is an Assistant Professor in the Department of Educational Psychology at the University of Minnesota, Twin Cities, where he studies how moments of failure, playful experiences, embodied cognition, and epistemic cognition shape learning in computer science, family play outdoors, video games, and other STEM domains. Through research-practice partnerships, his research examines cognitive and psychological processes within the context of social interaction, and often takes place within technology-rich settings.
-
-    ::: {style="width:30%; font-size:90%; text-align:center; margin-left: auto; margin-right:auto"}
-    <img src="img/deliema.jpg"/>
-
-    <p>David DeLiema</p>
-    :::
 
     *Abstract:* When teachers, researchers, and students describe productively responding to moments of failure in the learning process, what might this mean? Drawing from studies of computer programming teaching and learning, this talk will explore the heterogeneous processes teachers and students value and pursue following moments in which computer bugs thwart students' immediate progress on an activity. These include: (1) resolving the current bug; (2) avoiding recurring bugs; (3) preparing for novel bugs; (4) engaging with authority; and (5) calibrating confidence/ efficacy. In addition, this talk will examine the open-ended process of noticing bugs and the power-laden process of navigating refactoring in the classroom (e.g., how instructors request that students re-write working code in ways instructors judge to be more efficient/elegant). In all, this talk is meant to provide concrete points of reflection for how educators can support students with debugging in computer programming and with impasses in other STEM domains.
 

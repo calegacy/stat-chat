@@ -7,14 +7,14 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Upcoming
+        text: Upcoming Events
       - about.qmd
       - past.qmd
 
 format:
   html:
     theme: 
-      - dark
+      - lux
       - "assets/theme.scss"
     header-includes: |
       <link rel="preconnect" href="https://fonts.googleapis.com">

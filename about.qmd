@@ -9,15 +9,16 @@ StatChat is an informal but informative get-together of local statistics educato
 
 ## Current Organizers
 
-StatChat is currently being organized by [Alicia Johnson](mailto:ajohns24@macalester.edu?subject=StatChat) (Macalester College), [Laura Le](mailto:free0312@umn.edu?subject=StatChat) (University of Minnesota), and [Andrew Zieffler](mailto:zief0002@umn.edu?subject=StatChat) (University of Minnesota).
+StatChat is currently being organized by  [Laura Le](mailto:free0312@umn.edu?subject=StatChat) (University of Minnesota), [Chelsey Legacy](mailto:legac006@umn.edu?subject=StatChat) (University of Minnesota),  [Amelia McNamara](mailto:amelia.mcnamara@stthomas.edu?subject=StatChat) (University of St Thomas), and [Andrew Zieffler](mailto:zief0002@umn.edu?subject=StatChat) (University of Minnesota).
 
 <br /><br />
 
 <div style="width:100%; font-size:70%; text-align:center;">
-<img src="img/johnson.jpg"/ style>
-<img src="img/le.jpg" />
-<img src="img/zieffler.jpg" />
-<p>Alicia Johnson (left), Laura Le (center), and Andrew Zieffler (right)</p>
+<img src="img/le.jpg"/ style>
+<img src="img/legacy.jpg" />
+<img src="img/mcnamara.jpg" />
+<img src="img/zieffler.png" />
+<p>Laura Le, Chelsey Legacy, Amelia McNamara, and Andrew Zieffler (left to right)</p>
 </div>
 
 
