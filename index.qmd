@@ -23,7 +23,7 @@ Abstract: As coding and computation increasingly permeate statistics and data sc
 
 Description: Many of us might be trying to figure out how to use ChatGPT in the classroom. For example, questions you may be grappling with may include: How do we teach students to use it responsibly as a learning tool? Do we explicitly incorporate the use of it within our lessons? What policy should we have for when it is ok to use and when it is not ok to use in the classroom?
 
-Using a structured academic controversy activity, we will engage in a discussion to explore two sides of the use of ChatGPT in the classroom -- yay or nay. The goal is to spark conversations about the use of the tool and generate a list of appropriate and inappropriate uses that could be implemented within our own classrooms. Also, if you have language about appropriate (and/or inappropriate) use of ChatGPT in your classroom, please copy-and-paste that into this document (if you are willing to share).
+Using a structured academic controversy activity, we will engage in a discussion to explore two sides of the use of ChatGPT in the classroom -- yay or nay. The goal is to spark conversations about the use of the tool and generate a list of appropriate and inappropriate uses that could be implemented within our own classrooms. Also, if you have language about appropriate (and/or inappropriate) use of ChatGPT in your classroom, please copy-and-paste that into [this document](https://docs.google.com/document/d/16Nt-LjlLWsg7L5w7pYQD3XhCPtDFs1tM3tTGEwrMA5I/edit) (if you are willing to share).
 
 ### **Extra Details**
 
@@ -31,7 +31,7 @@ If you're able to attend, please [RSVP here](https://docs.google.com/spreadsheet
 
 #### **Parking options:**
 
--   **Free street parking** is available around campus. Amelia McNemara (our StatChat host) recommends Summit Ave or Goodrich Ave west of Cretin. For example, enter 2214 Goodrich Ave into your GPS to get to the block of Goodrich she is suggesting. **However, Summit Ave has free parking on the South side, North is residential and tow-away. Goodrich Ave is free on the North side.**
+-   **Free street parking** is available around campus. Amelia McNamara (our StatChat host) recommends Summit Ave or Goodrich Ave west of Cretin. For example, enter 2214 Goodrich Ave into your GPS to get to the block of Goodrich she is suggesting. **However, Summit Ave has free parking on the South side, North is residential and tow-away. Goodrich Ave is free on the North side.**
 
 -   **Paid parking** is available in the Anderson Parking Facility for \$1.55/hour. Park your car, then pay at the automated kiosk (license plate number required). There will be many spaces available, and the garage is across the street from where we will meet.
 
