@@ -9,7 +9,23 @@ This is an archive of information/links from past StatChat meetings.
 
 ## 2023--2024 Season (Year 15)
 
-<br />
+### November 29, 2023 Meeting
+
+**LOCATION:** University of St. Thomas, [O'Shaghnessy Science Hall (OSS) 227](https://campusmap.stthomas.edu/location/-M2Kgey8WZUWETUD6JIG)- **6:00--6:30**
+
+-   **Settle In & Eat**- **6:00--6:45**
+
+-   **Guest Speaker 6:45-7:15 - Regina Lisinker**
+
+**Lessons in Code Review**
+
+Abstract: As coding and computation increasingly permeate statistics and data science courses, it is important for students to not only learn coding syntax and language, but also how to communicate with other data scientists. Code review implements a consistent feedback loop between coder and reviewer(s) to systematically assess code quality and enhance team communication. While code review is a commonplace in industry, it is not often implemented in data science classrooms. In this talk, I will present insights gained from my MA study about students’ code review habits and discuss resources developed to help promote good code review practices, as well as lessons learned with regard to implementing code review in a community-based data science project.
+
+-   **Activity 7:15-8:00 -** Use of ChatGPT in the classroom–Yay or nay
+
+Description: Many of us might be trying to figure out how to use ChatGPT in the classroom. For example, questions you may be grappling with may include: How do we teach students to use it responsibly as a learning tool? Do we explicitly incorporate the use of it within our lessons? What policy should we have for when it is ok to use and when it is not ok to use in the classroom? Using a structured academic controversy activity, we will engage in a discussion to explore two sides of the use of ChatGPT in the classroom – yay or nay. The goal is to spark conversations about the use of the tool and generate a list of appropriate and inappropriate uses that could be implemented within our own classrooms.
+
+<br /><br />
 
 ### October 18, 2023 Meeting
 
