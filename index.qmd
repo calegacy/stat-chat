@@ -9,28 +9,49 @@ about:
 
 An informal but informative get-together of local statistics educators in the Twin-Cities
 
-## April 10, 2024 Meeting
+# **Wednesday, Nov. 6, from 6-8pm**
 
-We will be at **University of St. Thomas St Paul campus, O'Shaghnessy Science Hall (OSS) 127** (details of where to park and how to navigate there below) from 6-8pm. ***Note this is the same building, but a different classroom from our usual spot.***
+**LOCATION: University of St. Thomas St Paul campus, Owens Science Hall (OWS) 275 (**details of where to park and how to navigate there below).
 
-### Presenters: Sam Gould & Claire Kelling  
+\
+We are planning to make the most of our time together this academic year by hosting a **Pedagogical Potluck**! We would like to crowdsource your favorite pedagogical tips and tricks, activities, assessments, datasets or resources. This can take many forms: \
 
-#### **A Community-Engaged Statistical Analysis of Minneapolis Policing Practices, with Confluence Studio** 
+<div style="text-align: left"> 
 
-*Abstract*: In partnership with Confluence: An East Lake Studio Community Design, a Minneapolis-based studio dedicated to the holistic development of the 9th Ward, we utilized methods in spatial statistics to draw conclusions on the relationship between police use of force and neighborhood socioeconomic and demographic data in Minneapolis, Minnesota. Claire Kelling (Carleton College) and Sam Gould (Confluence Studio) will discuss their ongoing partnership and the preliminary output of this work. The first goal of this research is to develop an interactive Shiny app where the community can visualize policing data. A second goal is to continue statistical analysis and modeling of policing data within Ward 9. Interwoven through both of these goals, we will focus on translating the analysis back to the community through upcoming creative projects. The Shiny app will be used to understand policing dynamics in terms of types of force, where/when force is used, and other policing dynamics. The statistical analysis began during a statistics group senior thesis project in 2023, and the app was piloted in a winter break independent research project in 2023 and will continue in the scope of an independent research project this term. We will discuss takeaways from the statistical analysis and the structure of our partnership. 
+-   Do you have a favorite way to get to know your students?
+
+-   Do you have the PERFECT way of introducing your students to coding or to understand the importance of variability?
+
+-   Do you have a trick for getting students to work in groups and get off their cell phones?
+
+-   Do you have an amazing dataset?
+
+-   Do you have an engaging activity you use with students?
+
+-   Do you have an authentic or useful assessment?
+
+
+
+We want to hear about it! For our meeting in November, we will highlight 5–6 of these tips by having people do lightning talk (3–5 minutes) and brief Q&A about their topic. \
+\
+Sign-up in [**this google form**](https://www.google.com/url?q=https://forms.gle/eTaS4n7Pf2GW4JA78&source=gmail-imap&ust=1729519064000000&usg=AOvVaw0vbTms0Oqfe4vGIEpYYAlg) to volunteer something for Pedagogical Potluck. We will follow up in a few weeks with additional information once we have submissions come in. We are also planning on doing the same thing in our spring meeting, so if we have more than 5-6 ideas we will get to those at that time.
 
 Some extra details are below:
 
--   Check out the [StatChat website](https://calegacy.github.io/stat-chat/) for updates and emerging details about this and all other events.
+-   Check out the [StatChat website](https://www.google.com/url?q=https://calegacy.github.io/stat-chat/&source=gmail-imap&ust=1729519064000000&usg=AOvVaw0sf9ytAE2H7tIdF1ncvb3h) for updates and emerging details about this and all other events.
 
--   If you're able to attend, please [RSVP here](https://docs.google.com/spreadsheets/d/1Y09XZuKQyMPYnLZKgNV8cs2Bu3wY6Vr-Q1ZvM_8lUpE/edit#gid=0) and indicate whether you can bring a snack to add to potluck. Note that we'll be in a room which does not have easy access to a kitchen, dishes, serving implements, etc. Please keep this in mind in determining what to bring / how to bring it.
+-   If you're able to attend, please [RSVP here](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1cfeGRUqxHDtIZuf0HkclAfN-37V-zXeGVQWGIXDEgX4/edit?gid%3D0%23gid%3D0&source=gmail-imap&ust=1729519064000000&usg=AOvVaw1dm4IcqzU7Gfmz43jpec35) and indicate whether you can bring a snack to add to *food* potluck. Note that we'll be in a room which does not have easy access to a kitchen, dishes, serving implements, etc. Please keep this in mind in determining what to bring / how to bring it.
+
+
 
 -   Parking options:
 
-    -   Free street parking is available around campus. Amelia McNemara (our StatChat host) recommends Summit Ave or Goodrich Ave west of Cretin. For example, enter 2214 Goodrich Ave into your GPS to get to the block of Goodrich she is suggesting. **However, Summit Ave has free parking on the South side, North is residential and tow-away. Goodrich Ave is free on the North side.**
+    -   Free street parking is available around campus. There are some good places on Summit Ave or Goodrich Ave west of Cretin. **Note: Summit Ave only has free parking on the South side; North is residential and tow-away. Goodrich Ave is free on the North side.**
 
     -   Paid parking is available in the Anderson Parking Facility for \$1.55/hour. Park your car, then pay at the automated kiosk (license plate number required). There will be many spaces available, and the garage is across the street from where we will meet.
 
 -   Finding the room:
 
-    -   We will be meeting in OSS room 127, which is one of two connected science buildings at the corner of Summit and Cretin avenues. The building closest to the Anderson parking facility is OWS, the one closer to Summit is OSS. The two buildings (OWS and OSS) do not share the numbering, so there is no danger in getting to a wrong 127. Anything 150 and up will be OWS, below 150 will be OSS. 
+    -   Notice that we are meeting in a different building than we have previously. OWS is the building that is closest to the Anderson parking facility.
+    
+</div>
