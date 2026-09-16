@@ -7,6 +7,29 @@ This is an archive of information/links from past StatChat meetings.
 
 <br /><br />
 
+## 2025--2026 Season (Year 17)
+
+### **Tuesday, Nov. 11, from 6-8pm**
+
+**LOCATION: University of St. Thomas**
+
+**St Paul campus, Owens Science Hall (OWS) 226 
+
+We are planning to make the most of our time together this academic year by hosting a **Pedagogical Potluck!** We would like to crowdsource your favorite pedagogical tips and tricks, activities, assessments, datasets or resources. This can take many forms:
+
+
+
+- Do you have a useful new way to combat ChatGPT or work it into your lessons?
+
+- Anything new you are trying this year that is going well? Tell us something good!
+
+- Do you have a trick for getting students to work in groups and get off their cell phones?- Do you have an amazing dataset?
+
+- Do you have an authentic or useful assessment?We want to hear about it! For our meeting in November, we will highlight 5--6 of these tips by having people do lightning talk (3--5 minutes) and brief Q&A about their topic.\
+
+
+<br /><br />
+
 ## 2024--2025 Season (Year 16)
 
 ### **November 6, 2024 from 6-8pm**
@@ -29,7 +52,7 @@ We are planning to make the most of our time together this academic year by host
 
 -   Do you have an authentic or useful assessment?
 
-We will highlight 5–6 of these tips by having people do lightning talk (3–5 minutes) and brief Q&A about their topic. \
+We will highlight 5--6 of these tips by having people do lightning talk (3--5 minutes) and brief Q&A about their topic. \
 
 [Here are the materials presented!](https://www.google.com/url?q=https://drive.google.com/drive/u/0/folders/1HMfSXdlcJntqeAfrF9eOIxcvKSrVcuwS&source=gmail-imap&ust=1731707770000000&usg=AOvVaw1gUl7XKgLnLKbugkPeKwMV)
 :::
@@ -54,11 +77,11 @@ We will highlight 5–6 of these tips by having people do lightning talk (3–5 
 
 **Lessons in Code Review**
 
-Abstract: As coding and computation increasingly permeate statistics and data science courses, it is important for students to not only learn coding syntax and language, but also how to communicate with other data scientists. Code review implements a consistent feedback loop between coder and reviewer(s) to systematically assess code quality and enhance team communication. While code review is a commonplace in industry, it is not often implemented in data science classrooms. In this talk, I will present insights gained from my MA study about students’ code review habits and discuss resources developed to help promote good code review practices, as well as lessons learned with regard to implementing code review in a community-based data science project.
+Abstract: As coding and computation increasingly permeate statistics and data science courses, it is important for students to not only learn coding syntax and language, but also how to communicate with other data scientists. Code review implements a consistent feedback loop between coder and reviewer(s) to systematically assess code quality and enhance team communication. While code review is a commonplace in industry, it is not often implemented in data science classrooms. In this talk, I will present insights gained from my MA study about students' code review habits and discuss resources developed to help promote good code review practices, as well as lessons learned with regard to implementing code review in a community-based data science project.
 
--   **Activity 7:15-8:00 -** Use of ChatGPT in the classroom–Yay or nay
+-   **Activity 7:15-8:00 -** Use of ChatGPT in the classroom--Yay or nay
 
-Description: Many of us might be trying to figure out how to use ChatGPT in the classroom. For example, questions you may be grappling with may include: How do we teach students to use it responsibly as a learning tool? Do we explicitly incorporate the use of it within our lessons? What policy should we have for when it is ok to use and when it is not ok to use in the classroom? Using a structured academic controversy activity, we will engage in a discussion to explore two sides of the use of ChatGPT in the classroom – yay or nay. The goal is to spark conversations about the use of the tool and generate a list of appropriate and inappropriate uses that could be implemented within our own classrooms.
+Description: Many of us might be trying to figure out how to use ChatGPT in the classroom. For example, questions you may be grappling with may include: How do we teach students to use it responsibly as a learning tool? Do we explicitly incorporate the use of it within our lessons? What policy should we have for when it is ok to use and when it is not ok to use in the classroom? Using a structured academic controversy activity, we will engage in a discussion to explore two sides of the use of ChatGPT in the classroom -- yay or nay. The goal is to spark conversations about the use of the tool and generate a list of appropriate and inappropriate uses that could be implemented within our own classrooms.
 
 <br /><br />
 
